@@ -3,7 +3,7 @@
 💻 Front-end Developer 
 🎨 Occasional musician
 🏗️ Used to be a building surveyor
-🌱 I keep learning HTML, SCSS, JAVASCRIPT and REACT
+🌱 Learning HTML, SCSS, JAVASCRIPT and REACT
 
 
 📫 How to reach me, connect and grow together:
