@@ -4,6 +4,7 @@
 🎼 Occasional musician
 🏗️ Used to be a building surveyor
 🌱 Learning HTML, SCSS, JAVASCRIPT and REACT
+📚 First code at Adalab-Digital
 
 
 📫 How to reach me, connect and grow together:
