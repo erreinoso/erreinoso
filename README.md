@@ -1,7 +1,7 @@
 ** Hi there 👋 **
 
 💻 Front-end Developer 
-🎨 Occasional musician
+🎼 Occasional musician
 🏗️ Used to be a building surveyor
 🌱 Learning HTML, SCSS, JAVASCRIPT and REACT
 
