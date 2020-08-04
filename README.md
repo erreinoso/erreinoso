@@ -6,6 +6,10 @@
 🌱 Learning HTML, SCSS, JAVASCRIPT and REACT
 📚 First code at Adalab-Digital
 
+🔨🔧 I am currently improving my GitHub repository - WORK IN PROGRESS
+
+
+
 
 📫 How to reach me, connect and grow together:
 
