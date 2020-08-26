@@ -1,17 +1,17 @@
 # Hi there 👋 
 
-💻 Front-end Developer 
-🎼 Occasional musician
-🏗️ Used to be a building surveyor
-🌱 Learning HTML, SCSS, JAVASCRIPT and REACT
-📚 First code at Adalab-Digital
-
-🔨🔧 I am currently improving my GitHub repository - WORK IN PROGRESS
-
-
+💻 Front-end Developer <br />
+🎼 Occasional musician <br />
+🏗️ Used to be a building surveyor <br /> 
+🌱 Learning HTML, SCSS, JAVASCRIPT and REACT <br /> 
+📚 First code at Adalab-Digital <br /> 
+ <br /> 
+🔨🔧 I am currently improving my GitHub repository - WORK IN PROGRESS <br /> 
 
 
-📫 How to reach me, connect and grow together:
+
+
+📫 How to reach me, connect and grow together: <br /> 
 
  - https://twitter.com/_ElenaRReinoso
  - eramirezreinoso@gmail.com
