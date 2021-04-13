@@ -16,7 +16,7 @@
 <a href="https://twitter.com/_elenarreinoso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_elenarreinoso" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/erreinoso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="erreinoso" height="30" width="40" /></a>
 </p>
-<p> or at  eramirezreinoso@gmail.com </p>
+<p> or at <a href="mailto:eramirezreinoso@gmail.com">eramirezreinoso@gmail.com</a> </p>
 <br /> 
  
 <h2>Languages and Tools</h2>
@@ -27,7 +27,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erreinoso&show_icons=true&locale=en&layout=compact" alt="erreinoso" /></p>
 
 <br /> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erreinoso&show_icons=true&locale=en" alt="erreinoso" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=erreinoso&show_icons=true&locale=en" alt="erreinoso" /></p>
 
 <br /> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erreinoso&" alt="erreinoso" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=erreinoso&" alt="erreinoso" /></p>
