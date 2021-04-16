@@ -15,8 +15,9 @@
 <p align="left">
 <a href="https://twitter.com/_elenarreinoso" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="_elenarreinoso" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/erreinoso" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="erreinoso" height="30" width="30" /></a>
+<a href="mailto:eramirezreinoso@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65462205/114982587-ef770a00-9e8f-11eb-94ec-bf0029a3bf15.png" alt="erreinoso" height="30" width="30" /></a>
 </p>
-<p> or at <a href="mailto:eramirezreinoso@gmail.com">eramirezreinoso@gmail.com</a> </p>
+
 <br /> 
  
 <h2>Languages and Tools</h2>
