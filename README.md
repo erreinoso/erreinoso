@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Hi there 👋 My name is Elena
 
 💻 Front-end Developer <br />
 🎼 Occasional musician <br />
