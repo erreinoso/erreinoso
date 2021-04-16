@@ -29,6 +29,3 @@
 
 
 <p style="display: block"><img  src="https://github-readme-stats.vercel.app/api?username=erreinoso&show_icons=true&locale=en" alt="erreinoso" /></p>
-
-
-[<p style="display: block" ><img a src="https://github-readme-streak-stats.herokuapp.com/?user=erreinoso&" alt="erreinoso" /></p>](url)
