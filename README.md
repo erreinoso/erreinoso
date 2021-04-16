@@ -13,8 +13,8 @@
 <h2>📫 How to reach me, connect and grow together:</h2> <br /> 
 
 <p align="left">
-<a href="https://twitter.com/_elenarreinoso" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="_elenarreinoso" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/erreinoso" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="erreinoso" height="30" width="40" /></a>
+<a href="https://twitter.com/_elenarreinoso" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="_elenarreinoso" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/erreinoso" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="erreinoso" height="30" width="30" /></a>
 </p>
 <p> or at <a href="mailto:eramirezreinoso@gmail.com">eramirezreinoso@gmail.com</a> </p>
 <br /> 
