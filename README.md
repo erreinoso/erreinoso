@@ -2,8 +2,7 @@
 
 💻 Front-end Developer <br />
 🎼 Occasional musician <br />
-📚 First code at Adalab-Digital <br /> 
-🔭 Learning C#, SQL, LinQ and Knockout framework<br /> 
+🔭 Learning LWC, web components <br /> 
 🌱 Improving my HTML, SCSS, JAVASCRIPT and REACT skills<br /> 
 🏗️ Used to be a building surveyor <br /> 
 
